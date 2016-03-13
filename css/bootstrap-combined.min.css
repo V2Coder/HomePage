@@ -9700,9 +9700,9 @@ a.thumbnail:hover, a.thumbnail:focus {
 
 .hero-unit {
 
-    padding: 60px;
+    padding: 30px;
 
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 
     font-size: 18px;
 
@@ -9734,6 +9734,13 @@ a.thumbnail:hover, a.thumbnail:focus {
 
     letter-spacing: -1px;
 
+    text-align: center;
+
+}
+.hero-unit p{
+  text-align: center;
+  font-size: 22px;
+  padding: 30px 0 20px 20px;
 }
 
 
